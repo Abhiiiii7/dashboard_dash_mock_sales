@@ -99,11 +99,6 @@ app.py
 Copy 'http://127.0.0.1:8050/' and insert it into any browser to show our dashboard.
 
 
-## 6. Future implementation
-The future implementation of Conversational Analytics may be done using dash_core_components 'input' syntax.
-
-https://dash.plotly.com/dash-core-components/input
-
 ## Built With
 - Dash - Create Dashboard Web application, interact with HTML and CSS syntax
 - Sqlite3 - Simulate Data warehouse
